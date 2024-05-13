@@ -39,9 +39,9 @@ int main()
 	mahasiswa mhs4("Joko Purbo");
 
 	mhs1.printAll();
-	mhs1.printAll();
-	mhs1.printAll();
-	mhs1.printAll();
+	mhs2.printAll();
+	mhs3.printAll();
+	mhs4.printAll();
 	return 0;
 }
 
